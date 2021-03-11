@@ -1,0 +1,2 @@
+<view class="intro">{{testMixins}}</view>
+<view class="intro">{{globalMixins}}</view>
